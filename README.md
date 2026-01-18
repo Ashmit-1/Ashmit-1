@@ -11,7 +11,9 @@ I enjoy building **end-to-end AI systems** — from training models from scratch
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashmit-1)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashmit-1"  />
+</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashmit-1&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
 
