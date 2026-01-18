@@ -1,4 +1,4 @@
-## 👋 Hi, I’m **Ashmit Das** (`Ashmit-1`)
+## 👋 Hi, I’m **Ashmit Das** (`dev_das`)
 
 I’m a **3rd-year BTech student in CSE (AI & Robotics)** with a strong focus on **Artificial Intelligence, Machine Learning, and Large Language Models**.
 I enjoy building **end-to-end AI systems** — from training models from scratch to deploying real-world **GenAI and RAG-based applications**.
